@@ -41,7 +41,7 @@ client.on("message", async (msg) => {
         if (succsess) {
           msg.react("👌");
           client.sendMessage(
-            "6285256474235@c.us",
+            "6282347431338@c.us",
             `Lapor Bos !!\n\n*${namaPengirim}* so ba absen *${keterangan}* ${keterangan2}`
           );
         }
